@@ -139,3 +139,5 @@ function showPopUp(title, content, buttons) {
   newModal.style.transform = "scale(1)";
   return modalID;
 }
+
+{ findC, findI, showPopUp }
